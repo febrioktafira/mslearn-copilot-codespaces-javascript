@@ -26,13 +26,13 @@ import "./styles.css";
 const siteProps = {
   name: "Febri Oktafira",
   title: "Frontend Developer",
-  email: "febri.oktafira@gmail.com",
+  email: "febry.of31@outlook.com",
   gitHub: "febrioktafira",
   instagram: "febrioktafira",
-  linkedIn: "Febri Oktafira",
+  linkedIn: "febri-oktafira",
   medium: "",
   twitter: "Febrioktafira",
-  youTube: "Febri Oktafira",
+  youTube: "@febri0200",
 };
 
 const primaryColor = "#4E567E";
